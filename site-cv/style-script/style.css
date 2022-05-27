@@ -1,0 +1,66 @@
+
+
+.containerExp{
+    padding-bottom: 10px;
+    
+}
+.tituloExp{
+
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 20px;
+
+}
+.accordion{
+ max-width: 700px;
+
+ 
+}
+
+.exp-box {
+    text-align: center;
+    color: #ffffff!important;
+    background-color: #282828!important;
+    border-radius: 5px;    
+  }
+.meu-texto{
+    background-color: #282828!important;
+    color: #ffffff!important;
+    text-align: right;
+}
+div li {
+     text-align: center;
+     font-size: 20px;
+     margin: 5px 5px 5px ;
+     justify-items: center;
+}
+  
+
+.container-skills{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.container-skills img{
+    max-width: 200px;
+    max-height: 200px;
+    padding-right: 10px;
+    padding-top: 20px;
+
+}
+img:hover{
+    transition: 1.5s;
+    transform: rotateY(360deg);
+    cursor: pointer;
+}
+
+
+ Fim PG EXP
+
+.fimCV{
+    
+    
+    text-align: center;
+    padding: 1%;
+    margin-bottom: 1%; 
+}
