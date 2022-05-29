@@ -1,5 +1,4 @@
 
-
 .containerExp{
     padding-bottom: 10px;
     
@@ -11,12 +10,23 @@
     padding-bottom: 20px;
 
 }
-.accordion{
- max-width: 700px;
 
- 
+
+h5{
+    font-size: 30px!important;
 }
-
+div > p {
+    font-size: 20px!important;
+}
+hr{
+    width: 100%;
+}
+/* Experiencia */
+.accordion{
+    max-width: 700px;
+   
+    
+   }
 .exp-box {
     text-align: center;
     color: #ffffff!important;
@@ -48,19 +58,11 @@ div li {
     padding-top: 20px;
 
 }
-img:hover{
+.container-img > img:hover{
     transition: 1.5s;
     transform: rotateY(360deg);
     cursor: pointer;
 }
 
+ /* Fim PG EXP */
 
- Fim PG EXP
-
-.fimCV{
-    
-    
-    text-align: center;
-    padding: 1%;
-    margin-bottom: 1%; 
-}
