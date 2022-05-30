@@ -1,4 +1,6 @@
-
+main{
+    min-height: 780px!important;
+}
 .containerExp{
     padding-bottom: 10px;
     
@@ -21,6 +23,16 @@ div > p {
 hr{
     width: 100%;
 }
+
+/* rodopé */
+
+.rodinha{
+    position: absolute;
+    bottom: 0!important;
+    width: 100%;  
+    
+}
+
 /* Experiencia */
 .accordion{
     max-width: 700px;
