@@ -1,18 +1,23 @@
 main{
     min-height: 780px!important;
 }
-.containerExp{
-    padding-bottom: 10px;
-    
-}
-.tituloExp{
-
-    font-size: 40px;
-    text-align: center;
-    padding-bottom: 20px;
+.infos{
+    font-size: 23px!important;
+    min-width: 80%;
 
 }
-
+.size{
+    font-size: 60px;
+    text-decoration: none;
+    color: #282828!important;
+}
+div > #link:hover{
+    text-decoration:underline!important;
+}
+.rafamelis{
+    max-width: 90%;
+    min-height: 85%;
+}
 
 h5{
     font-size: 30px!important;
@@ -24,6 +29,7 @@ hr{
     width: 100%;
 }
 
+
 /* rodopé */
 
 .rodinha{
@@ -34,19 +40,35 @@ hr{
 }
 
 /* Experiencia */
+
+.containerExp{
+    padding-bottom: 10px;
+    
+}
+.tituloExp{
+
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 20px;
+
+}
 .accordion{
     max-width: 700px;
-   
+    
     
    }
+
+#headingOne{
+    color: #ffffff!important;
+}
 .exp-box {
     text-align: center;
     color: #ffffff!important;
-    background-color: #282828!important;
+    background-color: #293768!important;
     border-radius: 5px;    
   }
 .meu-texto{
-    background-color: #282828!important;
+    background-color: #293768!important;
     color: #ffffff!important;
     text-align: right;
 }
